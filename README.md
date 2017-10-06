@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/abhinavmall/VotingApp.svg?style=svg)](https://circleci.com/gh/abhinavmall/VotingApp)
 # Voting App
 Web Application Project 2
 
